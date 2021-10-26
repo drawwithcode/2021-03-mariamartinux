@@ -23,7 +23,6 @@ function preload() {
 }
 
 function setup() {
-  console.log(data);
   createCanvas(windowWidth, windowHeight);
   angleMode(DEGREES);
   imageMode(CENTER);
