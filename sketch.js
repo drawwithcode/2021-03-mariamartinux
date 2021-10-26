@@ -31,7 +31,7 @@ function setup() {
 function draw() {
   background("blue");
 
-  //division of the screen
+  //division of th screen
   push();
   stroke("magenta");
   strokeWeight(2);
